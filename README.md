@@ -24,11 +24,11 @@
             border-radius: 5px;
         }
         .section {
-            margin-bottom: 20px;
+            margin-bottom: 30px;
             background: white;
-            padding: 15px;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
