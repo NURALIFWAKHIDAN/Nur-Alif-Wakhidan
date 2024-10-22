@@ -35,7 +35,7 @@
 <body>
     <h1>DAFTAR RIWAYAT HIDUP</h1>
     <div class="contact-info">
-        <img src="https://github.com/image.png" alt="Foto Profil">
+        <img src="https://github.com/NURALIFWAKHIDAN/Nur-Alif-Wakhidan/blob/main/WhatsApp%20Image%202024-10-22%20at%2000.45.30_926d9222.jpg?raw=true" alt="Foto Profil"> .
         <h1>NUR ALIF WAKHIDAN</h1> <!-- Nama lengkap dengan font besar -->
         <p><strong>Nama:</strong> Nur Alif Wakhidan</p>
         <p><strong>Jenis Kelamin:</strong> Laki-laki</p>
